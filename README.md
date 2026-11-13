@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Mobile Prototype
 
 The React Native + Expo migration lives in [`mobile/`](mobile/README.md).
@@ -7,6 +8,8 @@ app now uses one student-ID login, faculty CSV roster imports, and a mandatory
 first-login password change. Synchronization is still simulated, and data is
 saved only on the current device. See the mobile README for demo credentials.
 
+=======
+>>>>>>> upstream/main
 <div align="center">
   <h1>⬛ EdgeSync</h1>
   <p><b>Offline-First QR Attendance Engine</b></p>
